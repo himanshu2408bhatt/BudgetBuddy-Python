@@ -1,0 +1,9 @@
+date,type,category,amount
+2025-08-06,Income,Job,8000.0
+2025-08-06,Expense,Food,500.0
+2025-08-06,Income,Job,50000.0
+2025-08-06,Income,Freelance,10000.0
+2025-08-06,Expense,Rent,10000.0
+2025-08-06,Expense,Transport,3000.0
+2025-08-06,Expense,Health,2000.0
+2025-08-06,Expense,Entertainment,2000.0
